@@ -1,0 +1,172 @@
+$date
+   Mon Oct 26 02:31:35 2026
+$end
+
+$version
+  2026.1
+  $dumpfile ("timer_module.vcd") 
+$end
+
+$timescale
+  1ps
+$end
+
+$scope module timer_module_tb $end
+$var reg 1 ! clk $end
+$var reg 1 " reset $end
+$var reg 1 # start $end
+$var reg 4 $ load_val [3:0] $end
+$var wire 4 % remaining [3:0] $end
+$var wire 1 & running $end
+$var wire 1 ' done $end
+$var integer 32 ( errors [31:0] $end
+$scope module DUT $end
+$var wire 1 ) clk $end
+$var wire 1 * reset $end
+$var wire 1 + start $end
+$var wire 4 , load_val [3:0] $end
+$var reg 4 - remaining [3:0] $end
+$var reg 1 . running $end
+$var reg 1 / done $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+
+#0
+$dumpvars
+0!
+1"
+0#
+b0 $
+bx %
+x&
+x'
+b0 (
+0)
+1*
+0+
+b0 ,
+bx -
+x.
+x/
+$end
+
+#5000
+1!
+b0 %
+0&
+0'
+1)
+b0 -
+0.
+0/
+
+#10000
+0!
+0)
+
+#15000
+1!
+1)
+
+#20000
+0!
+0"
+1#
+b11 $
+0)
+0*
+1+
+b11 ,
+
+#25000
+1!
+b11 %
+1&
+1)
+b11 -
+1.
+
+#30000
+0!
+0#
+0)
+0+
+
+#35000
+1!
+b10 %
+1)
+b10 -
+
+#40000
+0!
+0)
+
+#45000
+1!
+b1 %
+1)
+b1 -
+
+#50000
+0!
+0)
+
+#55000
+1!
+b0 %
+0&
+1'
+1)
+b0 -
+0.
+1/
+
+#60000
+0!
+0)
+
+#65000
+1!
+0'
+1)
+0/
+
+#70000
+0!
+0)
+
+#71000
+1#
+b1 $
+1+
+b1 ,
+
+#75000
+1!
+b1 %
+1&
+1)
+b1 -
+1.
+
+#80000
+0!
+0#
+0)
+0+
+
+#85000
+1!
+b0 %
+0&
+1'
+1)
+b0 -
+0.
+1/
+
+#90000
+0!
+0)

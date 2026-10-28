@@ -1,0 +1,2 @@
+CMOS-Done till lecture 7th
+Qspi -0

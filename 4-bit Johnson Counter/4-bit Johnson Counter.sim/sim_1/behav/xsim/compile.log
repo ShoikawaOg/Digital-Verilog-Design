@@ -1,0 +1,7 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/notsh/Downloads/Telegram Desktop/bdddy/Verilog_Vivado_Projects/Verilog_Vivado_Projects/07_johnson_counter.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module johnson_counter
+INFO: [VRFC 10-311] analyzing module d_ff
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/notsh/Downloads/Telegram Desktop/bdddy/Verilog_Vivado_Projects/Verilog_Vivado_Projects/07_johnson_counter_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module johnson_counter_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/GITHUB/Digital-Verilog-Design/4-bit Johnson Counter/4-bit Johnson Counter.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

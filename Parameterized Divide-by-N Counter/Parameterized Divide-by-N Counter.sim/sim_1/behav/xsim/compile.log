@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/notsh/Downloads/Telegram Desktop/bdddy/Verilog_Vivado_Projects/Verilog_Vivado_Projects/03_div_by_N.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module div_by_N
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/notsh/Downloads/Telegram Desktop/bdddy/Verilog_Vivado_Projects/Verilog_Vivado_Projects/03_div_by_N_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module div_by_N_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/GITHUB/Digital-Verilog-Design/Parameterized Divide-by-N Counter/Parameterized Divide-by-N Counter.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

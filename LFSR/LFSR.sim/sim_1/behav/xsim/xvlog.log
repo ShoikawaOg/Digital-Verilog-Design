@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/notsh/Downloads/Telegram Desktop/bdddy/new_6_modules/timer_module.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module timer_module
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/notsh/Downloads/Telegram Desktop/bdddy/new_6_modules/timer_module_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module timer_module_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/GITHUB/Digital-Verilog-Design/LFSR/LFSR.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

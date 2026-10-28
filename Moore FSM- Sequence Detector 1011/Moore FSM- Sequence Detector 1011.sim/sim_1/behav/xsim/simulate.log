@@ -1,0 +1,26 @@
+Time resolution is 1 ps
+t=0 reset=1 in=0 state=xxx out=x
+t=5000 reset=1 in=0 state=000 out=0
+t=20000 reset=0 in=0 state=000 out=0
+t=30000 reset=0 in=1 state=000 out=0
+t=35000 reset=0 in=1 state=001 out=0
+t=40000 reset=0 in=0 state=001 out=0
+t=45000 reset=0 in=0 state=010 out=0
+t=50000 reset=0 in=1 state=010 out=0
+t=55000 reset=0 in=1 state=011 out=0
+FAIL: 1011 not detected
+t=65000 reset=0 in=1 state=100 out=1
+t=70000 reset=0 in=0 state=100 out=1
+FAIL: output did not clear
+t=75000 reset=0 in=0 state=010 out=0
+t=80000 reset=1 in=0 state=010 out=0
+t=85000 reset=1 in=0 state=000 out=0
+t=90000 reset=0 in=1 state=000 out=0
+t=95000 reset=0 in=1 state=001 out=0
+t=100000 reset=0 in=0 state=001 out=0
+t=105000 reset=0 in=0 state=010 out=0
+t=115000 reset=0 in=0 state=000 out=0
+t=120000 reset=0 in=1 state=000 out=0
+PASS: 1001 not detected
+TESTS FAILED: 2
+$finish called at time : 121 ns : File "C:/Users/notsh/Downloads/Telegram Desktop/bdddy/Verilog_Vivado_Projects/Verilog_Vivado_Projects/06_moore_fsm_1011_tb.v" Line 45

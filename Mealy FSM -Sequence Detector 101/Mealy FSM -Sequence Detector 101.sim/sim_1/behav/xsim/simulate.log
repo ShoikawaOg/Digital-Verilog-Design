@@ -1,0 +1,16 @@
+Time resolution is 1 ps
+t=0 reset=1 in=0 state=xx out=0
+t=5000 reset=1 in=0 state=00 out=0
+t=20000 reset=0 in=0 state=00 out=0
+t=30000 reset=0 in=1 state=00 out=0
+t=35000 reset=0 in=1 state=01 out=0
+t=40000 reset=0 in=0 state=01 out=0
+t=45000 reset=0 in=0 state=10 out=0
+t=50000 reset=0 in=1 state=10 out=1
+PASS: 101 detected
+t=55000 reset=0 in=1 state=01 out=0
+t=60000 reset=0 in=0 state=01 out=0
+t=65000 reset=0 in=0 state=10 out=0
+PASS: no false detection
+ALL TESTS PASSED
+$finish called at time : 71 ns : File "C:/Users/notsh/Downloads/Telegram Desktop/bdddy/Verilog_Vivado_Projects/Verilog_Vivado_Projects/04_mealy_fsm_tb.v" Line 36

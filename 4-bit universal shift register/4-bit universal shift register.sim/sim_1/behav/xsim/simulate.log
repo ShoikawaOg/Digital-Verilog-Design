@@ -1,0 +1,14 @@
+Time resolution is 1 ps
+t=0 reset=1 mode=00 serial_in=0 parallel=0000 Q=xxxx serial_out=x
+t=5000 reset=1 mode=00 serial_in=0 parallel=0000 Q=0000 serial_out=0
+t=20000 reset=0 mode=11 serial_in=0 parallel=1011 Q=0000 serial_out=0
+t=25000 reset=0 mode=11 serial_in=0 parallel=1011 Q=1011 serial_out=1
+t=30000 reset=0 mode=00 serial_in=0 parallel=1011 Q=1011 serial_out=1
+t=40000 reset=0 mode=01 serial_in=1 parallel=1011 Q=1011 serial_out=1
+t=45000 reset=0 mode=01 serial_in=1 parallel=1011 Q=1101 serial_out=1
+t=50000 reset=0 mode=10 serial_in=0 parallel=1011 Q=1101 serial_out=1
+t=55000 reset=0 mode=10 serial_in=0 parallel=1011 Q=1010 serial_out=0
+t=60000 reset=0 mode=11 serial_in=0 parallel=0100 Q=1010 serial_out=0
+t=65000 reset=0 mode=11 serial_in=0 parallel=0100 Q=0100 serial_out=0
+t=70000 reset=0 mode=00 serial_in=0 parallel=0100 Q=0100 serial_out=0
+$finish called at time : 80 ns : File "C:/Users/notsh/Downloads/Telegram Desktop/bdddy/Verilog_Vivado_Projects/Verilog_Vivado_Projects/02_universal_shift_reg_tb.v" Line 40

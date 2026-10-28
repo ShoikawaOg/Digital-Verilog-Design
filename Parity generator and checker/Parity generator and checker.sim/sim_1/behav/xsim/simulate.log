@@ -1,0 +1,35 @@
+Time resolution is 1 ps
+t=0 data=0000 parity_tx=0 flip=0 parity_rx=0 error=0
+t=5000 data=0000 parity_tx=0 flip=1 parity_rx=1 error=1
+t=10000 data=0001 parity_tx=1 flip=0 parity_rx=1 error=0
+t=15000 data=0001 parity_tx=1 flip=1 parity_rx=0 error=1
+t=20000 data=0010 parity_tx=1 flip=0 parity_rx=1 error=0
+t=25000 data=0010 parity_tx=1 flip=1 parity_rx=0 error=1
+t=30000 data=0011 parity_tx=0 flip=0 parity_rx=0 error=0
+t=35000 data=0011 parity_tx=0 flip=1 parity_rx=1 error=1
+t=40000 data=0100 parity_tx=1 flip=0 parity_rx=1 error=0
+t=45000 data=0100 parity_tx=1 flip=1 parity_rx=0 error=1
+t=50000 data=0101 parity_tx=0 flip=0 parity_rx=0 error=0
+t=55000 data=0101 parity_tx=0 flip=1 parity_rx=1 error=1
+t=60000 data=0110 parity_tx=0 flip=0 parity_rx=0 error=0
+t=65000 data=0110 parity_tx=0 flip=1 parity_rx=1 error=1
+t=70000 data=0111 parity_tx=1 flip=0 parity_rx=1 error=0
+t=75000 data=0111 parity_tx=1 flip=1 parity_rx=0 error=1
+t=80000 data=1000 parity_tx=1 flip=0 parity_rx=1 error=0
+t=85000 data=1000 parity_tx=1 flip=1 parity_rx=0 error=1
+t=90000 data=1001 parity_tx=0 flip=0 parity_rx=0 error=0
+t=95000 data=1001 parity_tx=0 flip=1 parity_rx=1 error=1
+t=100000 data=1010 parity_tx=0 flip=0 parity_rx=0 error=0
+t=105000 data=1010 parity_tx=0 flip=1 parity_rx=1 error=1
+t=110000 data=1011 parity_tx=1 flip=0 parity_rx=1 error=0
+t=115000 data=1011 parity_tx=1 flip=1 parity_rx=0 error=1
+t=120000 data=1100 parity_tx=0 flip=0 parity_rx=0 error=0
+t=125000 data=1100 parity_tx=0 flip=1 parity_rx=1 error=1
+t=130000 data=1101 parity_tx=1 flip=0 parity_rx=1 error=0
+t=135000 data=1101 parity_tx=1 flip=1 parity_rx=0 error=1
+t=140000 data=1110 parity_tx=1 flip=0 parity_rx=1 error=0
+t=145000 data=1110 parity_tx=1 flip=1 parity_rx=0 error=1
+t=150000 data=1111 parity_tx=0 flip=0 parity_rx=0 error=0
+t=155000 data=1111 parity_tx=0 flip=1 parity_rx=1 error=1
+ALL TESTS PASSED
+$finish called at time : 160 ns : File "C:/Users/notsh/Downloads/Telegram Desktop/bdddy/new_6_modules/parity_tb.v" Line 33

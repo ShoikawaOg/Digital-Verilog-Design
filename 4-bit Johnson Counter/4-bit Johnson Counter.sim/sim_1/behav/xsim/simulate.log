@@ -1,0 +1,15 @@
+Time resolution is 1 ps
+t=0 reset=1 count=xxxx
+t=5000 reset=1 count=0000
+t=20000 reset=0 count=0000
+t=25000 reset=0 count=0001
+t=35000 reset=0 count=0011
+t=45000 reset=0 count=0111
+t=55000 reset=0 count=1111
+t=65000 reset=0 count=1110
+t=75000 reset=0 count=1100
+t=85000 reset=0 count=1000
+t=95000 reset=0 count=0000
+t=105000 reset=0 count=0001
+t=115000 reset=0 count=0011
+$finish called at time : 120 ns : File "C:/Users/notsh/Downloads/Telegram Desktop/bdddy/Verilog_Vivado_Projects/Verilog_Vivado_Projects/07_johnson_counter_tb.v" Line 19

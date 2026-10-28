@@ -1,0 +1,7 @@
+Time resolution is 1 ps
+Time	A B | Y
+0	0 0 | 0
+10000	0 1 | 1
+20000	1 0 | 1
+30000	1 1 | 1
+$finish called at time : 40 ns : File "C:/GITHUB/Digital-Verilog-Design/01_Basic_Gates/OR_Gate/orgate_tb.v" Line 36

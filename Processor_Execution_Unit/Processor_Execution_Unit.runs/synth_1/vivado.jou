@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2026.1 (64-bit)
+# SW Build 6511674 on Tue Jun 16 11:02:23 MDT 2026
+# IP Build 6504888 on Tue Jun 09 09:05:25 MDT 2026
+# SharedData Build 6501428 on Mon Jun 08 17:34:18 MDT 2026
+# Start of session at: Sun Aug 23 05:15:43 2026
+# Process ID         : 10912
+# Current directory  : C:/GITHUB/Digital-Verilog-Design/Processor_Execution_Unit/Processor_Execution_Unit.runs/synth_1
+# Command line       : vivado.exe -log processor_top.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source processor_top.tcl
+# Log file           : C:/GITHUB/Digital-Verilog-Design/Processor_Execution_Unit/Processor_Execution_Unit.runs/synth_1/processor_top.vds
+# Journal file       : C:/GITHUB/Digital-Verilog-Design/Processor_Execution_Unit/Processor_Execution_Unit.runs/synth_1\vivado.jou
+# Running On         : WOHH
+# Platform           : Windows 11
+# Operating System   : 26200
+# Processor Detail   : AMD Ryzen 7 7445HS w/ Radeon 740M Graphics     
+# CPU Frequency      : 3194 MHz
+# CPU Physical cores : 6
+# CPU Logical cores  : 12
+# Host memory        : 16438 MB
+# Swap memory        : 11274 MB
+# Total Virtual      : 27712 MB
+# Available Virtual  : 10148 MB
+#-----------------------------------------------------------
+source processor_top.tcl -notrace

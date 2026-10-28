@@ -1,0 +1,62 @@
+$date
+   Mon Oct 26 01:32:23 2026
+$end
+
+$version
+  2026.1
+  $dumpfile ("barrel_shifter.vcd") 
+$end
+
+$timescale
+  1ps
+$end
+
+$scope module barrel_shifter_4bit_tb $end
+$var reg 4 ! data [3:0] $end
+$var reg 2 " shamt [1:0] $end
+$var reg 2 # mode [1:0] $end
+$var wire 4 $ out [3:0] $end
+$scope module DUT $end
+$var wire 4 % data [3:0] $end
+$var wire 2 & shamt [1:0] $end
+$var wire 2 ' mode [1:0] $end
+$var reg 4 ( out [3:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+
+#0
+$dumpvars
+b1011 !
+b10 "
+b0 #
+b1100 $
+b1011 %
+b10 &
+b0 '
+b1100 (
+$end
+
+#10000
+b1 #
+b10 $
+b1 '
+b10 (
+
+#20000
+b10 #
+b1110 $
+b10 '
+b1110 (
+
+#30000
+b11 #
+b11 '
+
+#40000
+b0 "
+b10 #
+b1011 $
+b0 &
+b10 '
+b1011 (

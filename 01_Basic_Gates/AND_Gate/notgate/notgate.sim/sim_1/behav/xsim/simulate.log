@@ -1,0 +1,5 @@
+Time resolution is 1 ps
+Time	A | Y
+0	0 | 1
+10000	1 | 0
+$finish called at time : 20 ns : File "C:/GITHUB/Digital-Verilog-Design/01_Basic_Gates/NOT_Gate/notgate_tb.v" Line 21

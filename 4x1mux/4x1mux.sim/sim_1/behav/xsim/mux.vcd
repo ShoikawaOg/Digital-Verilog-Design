@@ -1,0 +1,66 @@
+$date
+   Tue Sep 22 17:53:56 2026
+$end
+
+$version
+  2026.1
+  $dumpfile ("mux.vcd") 
+$end
+
+$timescale
+  1ps
+$end
+
+$scope module tb $end
+$var reg 1 ! I0 $end
+$var reg 1 " I1 $end
+$var reg 1 # I2 $end
+$var reg 1 $ I3 $end
+$var reg 1 % S1 $end
+$var reg 1 & S0 $end
+$var wire 1 ' Y1 $end
+$scope module uut1 $end
+$var wire 1 ( I0 $end
+$var wire 1 ) I1 $end
+$var wire 1 * I2 $end
+$var wire 1 + I3 $end
+$var wire 1 , S1 $end
+$var wire 1 - S0 $end
+$var wire 1 ' Y $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+
+#0
+$dumpvars
+0!
+1"
+0#
+1$
+0%
+0&
+0'
+0(
+1)
+0*
+1+
+0,
+0-
+$end
+
+#10000
+1&
+1'
+1-
+
+#20000
+1%
+0&
+0'
+1,
+0-
+
+#30000
+1&
+1'
+1-

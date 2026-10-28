@@ -1,0 +1,18 @@
+Time resolution is 1 ps
+t=0 reset=1 start=0 load=0 remaining=x running=x done=x
+t=5000 reset=1 start=0 load=0 remaining=0 running=0 done=0
+t=20000 reset=0 start=1 load=3 remaining=0 running=0 done=0
+t=25000 reset=0 start=1 load=3 remaining=3 running=1 done=0
+t=30000 reset=0 start=0 load=3 remaining=3 running=1 done=0
+t=35000 reset=0 start=0 load=3 remaining=2 running=1 done=0
+t=45000 reset=0 start=0 load=3 remaining=1 running=1 done=0
+t=55000 reset=0 start=0 load=3 remaining=0 running=0 done=1
+PASS: 3-cycle timer
+t=65000 reset=0 start=0 load=3 remaining=0 running=0 done=0
+t=71000 reset=0 start=1 load=1 remaining=0 running=0 done=0
+t=75000 reset=0 start=1 load=1 remaining=1 running=1 done=0
+t=80000 reset=0 start=0 load=1 remaining=1 running=1 done=0
+t=85000 reset=0 start=0 load=1 remaining=0 running=0 done=1
+PASS: 1-cycle timer
+ALL TESTS PASSED
+$finish called at time : 91 ns : File "C:/Users/notsh/Downloads/Telegram Desktop/bdddy/new_6_modules/timer_module_tb.v" Line 49

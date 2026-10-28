@@ -1,0 +1,7 @@
+Time resolution is 1 ps
+t=0 data=1011 shamt=2 mode=00 out=1100
+t=10000 data=1011 shamt=2 mode=01 out=0010
+t=20000 data=1011 shamt=2 mode=10 out=1110
+t=30000 data=1011 shamt=2 mode=11 out=1110
+t=40000 data=1011 shamt=0 mode=10 out=1011
+$finish called at time : 50 ns : File "C:/Users/notsh/Downloads/Telegram Desktop/bdddy/Verilog_Vivado_Projects/Verilog_Vivado_Projects/09_barrel_shifter_4bit_tb.v" Line 21

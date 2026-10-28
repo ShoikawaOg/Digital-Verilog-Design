@@ -1,0 +1,10 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/notsh/Downloads/Telegram Desktop/bdddy/Verilog_Vivado_Projects/Verilog_Vivado_Projects/02_universal_shift_reg.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module universal_shift_reg_4bit
+INFO: [VRFC 10-311] analyzing module shift_right_4bit
+INFO: [VRFC 10-311] analyzing module shift_left_4bit
+INFO: [VRFC 10-311] analyzing module load_4bit
+INFO: [VRFC 10-311] analyzing module mux_4to1_4bit
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/notsh/Downloads/Telegram Desktop/bdddy/Verilog_Vivado_Projects/Verilog_Vivado_Projects/02_universal_shift_reg_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module universal_shift_reg_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/GITHUB/Digital-Verilog-Design/4-bit universal shift register/4-bit universal shift register.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

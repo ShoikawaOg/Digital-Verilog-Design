@@ -1,0 +1,50 @@
+Time resolution is 1 ps
+
+========================================
+PWM RANDOMIZED TEST
+========================================
+Test 1: Duty=227  High=227  Expected=227
+PASS
+Test 2: Duty=11  High=11  Expected=11
+PASS
+Test 3: Duty=212  High=212  Expected=212
+PASS
+Test 4: Duty=246  High=246  Expected=246
+PASS
+Test 5: Duty=197  High=197  Expected=197
+PASS
+Test 6: Duty=193  High=193  Expected=193
+PASS
+Test 7: Duty=67  High=67  Expected=67
+PASS
+Test 8: Duty=168  High=168  Expected=168
+PASS
+Test 9: Duty=205  High=205  Expected=205
+PASS
+Test 10: Duty=23  High=23  Expected=23
+PASS
+Test 11: Duty=159  High=159  Expected=159
+PASS
+Test 12: Duty=146  High=146  Expected=146
+PASS
+Test 13: Duty=216  High=216  Expected=216
+PASS
+Test 14: Duty=226  High=226  Expected=226
+PASS
+Test 15: Duty=58  High=58  Expected=58
+PASS
+Test 16: Duty=165  High=165  Expected=165
+PASS
+Test 17: Duty=249  High=249  Expected=249
+PASS
+Test 18: Duty=217  High=217  Expected=217
+PASS
+Test 19: Duty=55  High=55  Expected=55
+PASS
+Test 20: Duty=209  High=209  Expected=209
+PASS
+
+========================================
+PWM RANDOMIZED TEST COMPLETE
+========================================
+$finish called at time : 51235 ns : File "C:/GITHUB/Digital-Verilog-Design/PWM/PWM.srcs/sim_1/new/pwm_generator_random_tb.v" Line 106

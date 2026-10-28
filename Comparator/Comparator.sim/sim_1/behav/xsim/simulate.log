@@ -1,0 +1,27 @@
+Time resolution is 1 ps
+t=0 reset=1 q=0000 (0)
+t=12000 reset=0 q=0000 (0)
+t=20000 reset=0 q=0001 (1)
+t=30000 reset=0 q=0010 (2)
+t=40000 reset=0 q=0011 (3)
+t=50000 reset=0 q=0100 (4)
+t=60000 reset=0 q=0101 (5)
+t=70000 reset=0 q=0110 (6)
+t=80000 reset=0 q=0111 (7)
+t=90000 reset=0 q=1000 (8)
+t=100000 reset=0 q=1001 (9)
+t=110000 reset=0 q=1010 (10)
+t=120000 reset=0 q=1011 (11)
+t=130000 reset=0 q=1100 (12)
+t=140000 reset=0 q=1101 (13)
+t=150000 reset=0 q=1110 (14)
+t=160000 reset=0 q=1111 (15)
+t=170000 reset=0 q=0000 (0)
+t=180000 reset=0 q=0001 (1)
+t=190000 reset=0 q=0010 (2)
+t=200000 reset=0 q=0011 (3)
+t=210000 reset=0 q=0100 (4)
+t=213000 reset=1 q=0000 (0)
+PASS: asynchronous reset
+ALL TESTS PASSED
+$finish called at time : 214 ns : File "C:/Users/notsh/Downloads/Telegram Desktop/bdddy/new_6_modules/async_counter_tb.v" Line 35

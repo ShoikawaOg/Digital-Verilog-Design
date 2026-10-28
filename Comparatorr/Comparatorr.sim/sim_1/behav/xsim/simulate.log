@@ -1,0 +1,202 @@
+Time resolution is 1 ps
+t=0 a= 0 b= 0 gt=0 eq=1 lt=0
+t=5000 a= 0 b= 1 gt=0 eq=0 lt=1
+t=10000 a= 0 b= 2 gt=0 eq=0 lt=1
+t=15000 a= 0 b= 3 gt=0 eq=0 lt=1
+t=20000 a= 0 b= 4 gt=0 eq=0 lt=1
+t=25000 a= 0 b= 5 gt=0 eq=0 lt=1
+t=30000 a= 0 b= 6 gt=0 eq=0 lt=1
+t=35000 a= 0 b= 7 gt=0 eq=0 lt=1
+t=40000 a= 0 b= 8 gt=0 eq=0 lt=1
+t=45000 a= 0 b= 9 gt=0 eq=0 lt=1
+t=50000 a= 0 b=10 gt=0 eq=0 lt=1
+t=55000 a= 0 b=11 gt=0 eq=0 lt=1
+t=60000 a= 0 b=12 gt=0 eq=0 lt=1
+t=65000 a= 0 b=13 gt=0 eq=0 lt=1
+t=70000 a= 0 b=14 gt=0 eq=0 lt=1
+t=75000 a= 0 b=15 gt=0 eq=0 lt=1
+t=80000 a= 1 b= 0 gt=1 eq=0 lt=0
+t=85000 a= 1 b= 1 gt=0 eq=1 lt=0
+t=90000 a= 1 b= 2 gt=0 eq=0 lt=1
+t=95000 a= 1 b= 3 gt=0 eq=0 lt=1
+t=100000 a= 1 b= 4 gt=0 eq=0 lt=1
+t=105000 a= 1 b= 5 gt=0 eq=0 lt=1
+t=110000 a= 1 b= 6 gt=0 eq=0 lt=1
+t=115000 a= 1 b= 7 gt=0 eq=0 lt=1
+t=120000 a= 1 b= 8 gt=0 eq=0 lt=1
+t=125000 a= 1 b= 9 gt=0 eq=0 lt=1
+t=130000 a= 1 b=10 gt=0 eq=0 lt=1
+t=135000 a= 1 b=11 gt=0 eq=0 lt=1
+t=140000 a= 1 b=12 gt=0 eq=0 lt=1
+t=145000 a= 1 b=13 gt=0 eq=0 lt=1
+t=150000 a= 1 b=14 gt=0 eq=0 lt=1
+t=155000 a= 1 b=15 gt=0 eq=0 lt=1
+t=160000 a= 2 b= 0 gt=1 eq=0 lt=0
+t=165000 a= 2 b= 1 gt=1 eq=0 lt=0
+t=170000 a= 2 b= 2 gt=0 eq=1 lt=0
+t=175000 a= 2 b= 3 gt=0 eq=0 lt=1
+t=180000 a= 2 b= 4 gt=0 eq=0 lt=1
+t=185000 a= 2 b= 5 gt=0 eq=0 lt=1
+t=190000 a= 2 b= 6 gt=0 eq=0 lt=1
+t=195000 a= 2 b= 7 gt=0 eq=0 lt=1
+t=200000 a= 2 b= 8 gt=0 eq=0 lt=1
+t=205000 a= 2 b= 9 gt=0 eq=0 lt=1
+t=210000 a= 2 b=10 gt=0 eq=0 lt=1
+t=215000 a= 2 b=11 gt=0 eq=0 lt=1
+t=220000 a= 2 b=12 gt=0 eq=0 lt=1
+t=225000 a= 2 b=13 gt=0 eq=0 lt=1
+t=230000 a= 2 b=14 gt=0 eq=0 lt=1
+t=235000 a= 2 b=15 gt=0 eq=0 lt=1
+t=240000 a= 3 b= 0 gt=1 eq=0 lt=0
+t=245000 a= 3 b= 1 gt=1 eq=0 lt=0
+t=250000 a= 3 b= 2 gt=1 eq=0 lt=0
+t=255000 a= 3 b= 3 gt=0 eq=1 lt=0
+t=260000 a= 3 b= 4 gt=0 eq=0 lt=1
+t=265000 a= 3 b= 5 gt=0 eq=0 lt=1
+t=270000 a= 3 b= 6 gt=0 eq=0 lt=1
+t=275000 a= 3 b= 7 gt=0 eq=0 lt=1
+t=280000 a= 3 b= 8 gt=0 eq=0 lt=1
+t=285000 a= 3 b= 9 gt=0 eq=0 lt=1
+t=290000 a= 3 b=10 gt=0 eq=0 lt=1
+t=295000 a= 3 b=11 gt=0 eq=0 lt=1
+t=300000 a= 3 b=12 gt=0 eq=0 lt=1
+t=305000 a= 3 b=13 gt=0 eq=0 lt=1
+t=310000 a= 3 b=14 gt=0 eq=0 lt=1
+t=315000 a= 3 b=15 gt=0 eq=0 lt=1
+t=320000 a= 4 b= 0 gt=1 eq=0 lt=0
+t=325000 a= 4 b= 1 gt=1 eq=0 lt=0
+t=330000 a= 4 b= 2 gt=1 eq=0 lt=0
+t=335000 a= 4 b= 3 gt=1 eq=0 lt=0
+t=340000 a= 4 b= 4 gt=0 eq=1 lt=0
+t=345000 a= 4 b= 5 gt=0 eq=0 lt=1
+t=350000 a= 4 b= 6 gt=0 eq=0 lt=1
+t=355000 a= 4 b= 7 gt=0 eq=0 lt=1
+t=360000 a= 4 b= 8 gt=0 eq=0 lt=1
+t=365000 a= 4 b= 9 gt=0 eq=0 lt=1
+t=370000 a= 4 b=10 gt=0 eq=0 lt=1
+t=375000 a= 4 b=11 gt=0 eq=0 lt=1
+t=380000 a= 4 b=12 gt=0 eq=0 lt=1
+t=385000 a= 4 b=13 gt=0 eq=0 lt=1
+t=390000 a= 4 b=14 gt=0 eq=0 lt=1
+t=395000 a= 4 b=15 gt=0 eq=0 lt=1
+t=400000 a= 5 b= 0 gt=1 eq=0 lt=0
+t=405000 a= 5 b= 1 gt=1 eq=0 lt=0
+t=410000 a= 5 b= 2 gt=1 eq=0 lt=0
+t=415000 a= 5 b= 3 gt=1 eq=0 lt=0
+t=420000 a= 5 b= 4 gt=1 eq=0 lt=0
+t=425000 a= 5 b= 5 gt=0 eq=1 lt=0
+t=430000 a= 5 b= 6 gt=0 eq=0 lt=1
+t=435000 a= 5 b= 7 gt=0 eq=0 lt=1
+t=440000 a= 5 b= 8 gt=0 eq=0 lt=1
+t=445000 a= 5 b= 9 gt=0 eq=0 lt=1
+t=450000 a= 5 b=10 gt=0 eq=0 lt=1
+t=455000 a= 5 b=11 gt=0 eq=0 lt=1
+t=460000 a= 5 b=12 gt=0 eq=0 lt=1
+t=465000 a= 5 b=13 gt=0 eq=0 lt=1
+t=470000 a= 5 b=14 gt=0 eq=0 lt=1
+t=475000 a= 5 b=15 gt=0 eq=0 lt=1
+t=480000 a= 6 b= 0 gt=1 eq=0 lt=0
+t=485000 a= 6 b= 1 gt=1 eq=0 lt=0
+t=490000 a= 6 b= 2 gt=1 eq=0 lt=0
+t=495000 a= 6 b= 3 gt=1 eq=0 lt=0
+t=500000 a= 6 b= 4 gt=1 eq=0 lt=0
+t=505000 a= 6 b= 5 gt=1 eq=0 lt=0
+t=510000 a= 6 b= 6 gt=0 eq=1 lt=0
+t=515000 a= 6 b= 7 gt=0 eq=0 lt=1
+t=520000 a= 6 b= 8 gt=0 eq=0 lt=1
+t=525000 a= 6 b= 9 gt=0 eq=0 lt=1
+t=530000 a= 6 b=10 gt=0 eq=0 lt=1
+t=535000 a= 6 b=11 gt=0 eq=0 lt=1
+t=540000 a= 6 b=12 gt=0 eq=0 lt=1
+t=545000 a= 6 b=13 gt=0 eq=0 lt=1
+t=550000 a= 6 b=14 gt=0 eq=0 lt=1
+t=555000 a= 6 b=15 gt=0 eq=0 lt=1
+t=560000 a= 7 b= 0 gt=1 eq=0 lt=0
+t=565000 a= 7 b= 1 gt=1 eq=0 lt=0
+t=570000 a= 7 b= 2 gt=1 eq=0 lt=0
+t=575000 a= 7 b= 3 gt=1 eq=0 lt=0
+t=580000 a= 7 b= 4 gt=1 eq=0 lt=0
+t=585000 a= 7 b= 5 gt=1 eq=0 lt=0
+t=590000 a= 7 b= 6 gt=1 eq=0 lt=0
+t=595000 a= 7 b= 7 gt=0 eq=1 lt=0
+t=600000 a= 7 b= 8 gt=0 eq=0 lt=1
+t=605000 a= 7 b= 9 gt=0 eq=0 lt=1
+t=610000 a= 7 b=10 gt=0 eq=0 lt=1
+t=615000 a= 7 b=11 gt=0 eq=0 lt=1
+t=620000 a= 7 b=12 gt=0 eq=0 lt=1
+t=625000 a= 7 b=13 gt=0 eq=0 lt=1
+t=630000 a= 7 b=14 gt=0 eq=0 lt=1
+t=635000 a= 7 b=15 gt=0 eq=0 lt=1
+t=640000 a= 8 b= 0 gt=1 eq=0 lt=0
+t=645000 a= 8 b= 1 gt=1 eq=0 lt=0
+t=650000 a= 8 b= 2 gt=1 eq=0 lt=0
+t=655000 a= 8 b= 3 gt=1 eq=0 lt=0
+t=660000 a= 8 b= 4 gt=1 eq=0 lt=0
+t=665000 a= 8 b= 5 gt=1 eq=0 lt=0
+t=670000 a= 8 b= 6 gt=1 eq=0 lt=0
+t=675000 a= 8 b= 7 gt=1 eq=0 lt=0
+t=680000 a= 8 b= 8 gt=0 eq=1 lt=0
+t=685000 a= 8 b= 9 gt=0 eq=0 lt=1
+t=690000 a= 8 b=10 gt=0 eq=0 lt=1
+t=695000 a= 8 b=11 gt=0 eq=0 lt=1
+t=700000 a= 8 b=12 gt=0 eq=0 lt=1
+t=705000 a= 8 b=13 gt=0 eq=0 lt=1
+t=710000 a= 8 b=14 gt=0 eq=0 lt=1
+t=715000 a= 8 b=15 gt=0 eq=0 lt=1
+t=720000 a= 9 b= 0 gt=1 eq=0 lt=0
+t=725000 a= 9 b= 1 gt=1 eq=0 lt=0
+t=730000 a= 9 b= 2 gt=1 eq=0 lt=0
+t=735000 a= 9 b= 3 gt=1 eq=0 lt=0
+t=740000 a= 9 b= 4 gt=1 eq=0 lt=0
+t=745000 a= 9 b= 5 gt=1 eq=0 lt=0
+t=750000 a= 9 b= 6 gt=1 eq=0 lt=0
+t=755000 a= 9 b= 7 gt=1 eq=0 lt=0
+t=760000 a= 9 b= 8 gt=1 eq=0 lt=0
+t=765000 a= 9 b= 9 gt=0 eq=1 lt=0
+t=770000 a= 9 b=10 gt=0 eq=0 lt=1
+t=775000 a= 9 b=11 gt=0 eq=0 lt=1
+t=780000 a= 9 b=12 gt=0 eq=0 lt=1
+t=785000 a= 9 b=13 gt=0 eq=0 lt=1
+t=790000 a= 9 b=14 gt=0 eq=0 lt=1
+t=795000 a= 9 b=15 gt=0 eq=0 lt=1
+t=800000 a=10 b= 0 gt=1 eq=0 lt=0
+t=805000 a=10 b= 1 gt=1 eq=0 lt=0
+t=810000 a=10 b= 2 gt=1 eq=0 lt=0
+t=815000 a=10 b= 3 gt=1 eq=0 lt=0
+t=820000 a=10 b= 4 gt=1 eq=0 lt=0
+t=825000 a=10 b= 5 gt=1 eq=0 lt=0
+t=830000 a=10 b= 6 gt=1 eq=0 lt=0
+t=835000 a=10 b= 7 gt=1 eq=0 lt=0
+t=840000 a=10 b= 8 gt=1 eq=0 lt=0
+t=845000 a=10 b= 9 gt=1 eq=0 lt=0
+t=850000 a=10 b=10 gt=0 eq=1 lt=0
+t=855000 a=10 b=11 gt=0 eq=0 lt=1
+t=860000 a=10 b=12 gt=0 eq=0 lt=1
+t=865000 a=10 b=13 gt=0 eq=0 lt=1
+t=870000 a=10 b=14 gt=0 eq=0 lt=1
+t=875000 a=10 b=15 gt=0 eq=0 lt=1
+t=880000 a=11 b= 0 gt=1 eq=0 lt=0
+t=885000 a=11 b= 1 gt=1 eq=0 lt=0
+t=890000 a=11 b= 2 gt=1 eq=0 lt=0
+t=895000 a=11 b= 3 gt=1 eq=0 lt=0
+t=900000 a=11 b= 4 gt=1 eq=0 lt=0
+t=905000 a=11 b= 5 gt=1 eq=0 lt=0
+t=910000 a=11 b= 6 gt=1 eq=0 lt=0
+t=915000 a=11 b= 7 gt=1 eq=0 lt=0
+t=920000 a=11 b= 8 gt=1 eq=0 lt=0
+t=925000 a=11 b= 9 gt=1 eq=0 lt=0
+t=930000 a=11 b=10 gt=1 eq=0 lt=0
+t=935000 a=11 b=11 gt=0 eq=1 lt=0
+t=940000 a=11 b=12 gt=0 eq=0 lt=1
+t=945000 a=11 b=13 gt=0 eq=0 lt=1
+t=950000 a=11 b=14 gt=0 eq=0 lt=1
+t=955000 a=11 b=15 gt=0 eq=0 lt=1
+t=960000 a=12 b= 0 gt=1 eq=0 lt=0
+t=965000 a=12 b= 1 gt=1 eq=0 lt=0
+t=970000 a=12 b= 2 gt=1 eq=0 lt=0
+t=975000 a=12 b= 3 gt=1 eq=0 lt=0
+t=980000 a=12 b= 4 gt=1 eq=0 lt=0
+t=985000 a=12 b= 5 gt=1 eq=0 lt=0
+t=990000 a=12 b= 6 gt=1 eq=0 lt=0
+t=995000 a=12 b= 7 gt=1 eq=0 lt=0
+t=1000000 a=12 b= 8 gt=1 eq=0 lt=0

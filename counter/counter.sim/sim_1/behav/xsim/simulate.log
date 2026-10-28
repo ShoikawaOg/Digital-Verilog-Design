@@ -1,0 +1,25 @@
+Time resolution is 1 ps
+t=0 reset=1 mode=1 count=xxxx
+t=5000 reset=1 mode=1 count=0000
+t=20000 reset=0 mode=1 count=0000
+t=25000 reset=0 mode=1 count=0001
+t=35000 reset=0 mode=1 count=0010
+t=45000 reset=0 mode=1 count=0011
+t=55000 reset=0 mode=1 count=0100
+t=65000 reset=0 mode=1 count=0101
+t=70000 reset=0 mode=0 count=0101
+t=75000 reset=0 mode=0 count=0100
+t=85000 reset=0 mode=0 count=0011
+t=95000 reset=0 mode=0 count=0010
+t=105000 reset=0 mode=0 count=0001
+t=115000 reset=0 mode=0 count=0000
+t=125000 reset=0 mode=0 count=1111
+t=135000 reset=0 mode=0 count=1110
+t=140000 reset=1 mode=0 count=1110
+t=145000 reset=1 mode=0 count=0000
+t=150000 reset=0 mode=1 count=0000
+t=155000 reset=0 mode=1 count=0001
+t=165000 reset=0 mode=1 count=0010
+t=175000 reset=0 mode=1 count=0011
+t=185000 reset=0 mode=1 count=0100
+$finish called at time : 190 ns : File "C:/Users/notsh/Downloads/Telegram Desktop/bdddy/Verilog_Vivado_Projects/Verilog_Vivado_Projects/01_counter_tb.v" Line 35

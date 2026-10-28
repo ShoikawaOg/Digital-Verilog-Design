@@ -1,0 +1,11 @@
+Time resolution is 1 ps
+Starting WRITE test...
+PASS: FIFO is FULL
+Starting READ test...
+PASS: FIFO is EMPTY
+Starting simultaneous READ/WRITE test...
+Simultaneous READ/WRITE test completed
+--------------------------------
+FIFO TESTBENCH COMPLETED
+--------------------------------
+$finish called at time : 405 ns : File "C:/GITHUB/Digital-Verilog-Design/sync_fifo/sync_fifo.srcs/sim_1/new/sync_fifo_tb.v" Line 127

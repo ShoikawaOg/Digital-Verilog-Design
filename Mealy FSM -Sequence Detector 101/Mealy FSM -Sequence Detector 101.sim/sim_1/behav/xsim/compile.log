@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/notsh/Downloads/Telegram Desktop/bdddy/Verilog_Vivado_Projects/Verilog_Vivado_Projects/04_mealy_fsm.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mealy_fsm
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/notsh/Downloads/Telegram Desktop/bdddy/Verilog_Vivado_Projects/Verilog_Vivado_Projects/04_mealy_fsm_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mealy_fsm_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/GITHUB/Digital-Verilog-Design/Mealy FSM -Sequence Detector 101/Mealy FSM -Sequence Detector 101.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

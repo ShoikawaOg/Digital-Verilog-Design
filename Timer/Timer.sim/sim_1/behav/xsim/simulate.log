@@ -1,0 +1,37 @@
+Time resolution is 1 ps
+t=0 reset=1 q=xxxx rand_bit=x
+t=5000 reset=1 q=0001 rand_bit=0
+t=20000 reset=0 q=0001 rand_bit=0
+t=25000 reset=0 q=0010 rand_bit=0
+t=35000 reset=0 q=0100 rand_bit=0
+t=45000 reset=0 q=1001 rand_bit=1
+t=55000 reset=0 q=0011 rand_bit=0
+t=65000 reset=0 q=0110 rand_bit=0
+t=75000 reset=0 q=1101 rand_bit=1
+t=85000 reset=0 q=1010 rand_bit=1
+t=95000 reset=0 q=0101 rand_bit=0
+t=105000 reset=0 q=1011 rand_bit=1
+t=115000 reset=0 q=0111 rand_bit=0
+t=125000 reset=0 q=1111 rand_bit=1
+t=135000 reset=0 q=1110 rand_bit=1
+t=145000 reset=0 q=1100 rand_bit=1
+t=155000 reset=0 q=1000 rand_bit=1
+t=165000 reset=0 q=0001 rand_bit=0
+t=175000 reset=0 q=0010 rand_bit=0
+t=185000 reset=0 q=0100 rand_bit=0
+t=195000 reset=0 q=1001 rand_bit=1
+t=205000 reset=0 q=0011 rand_bit=0
+t=215000 reset=0 q=0110 rand_bit=0
+t=225000 reset=0 q=1101 rand_bit=1
+t=235000 reset=0 q=1010 rand_bit=1
+t=245000 reset=0 q=0101 rand_bit=0
+t=255000 reset=0 q=1011 rand_bit=1
+t=265000 reset=0 q=0111 rand_bit=0
+t=275000 reset=0 q=1111 rand_bit=1
+t=285000 reset=0 q=1110 rand_bit=1
+t=295000 reset=0 q=1100 rand_bit=1
+t=305000 reset=0 q=1000 rand_bit=1
+t=315000 reset=0 q=0001 rand_bit=0
+t=325000 reset=0 q=0010 rand_bit=0
+ALL TESTS PASSED
+$finish called at time : 330 ns : File "C:/Users/notsh/Downloads/Telegram Desktop/bdddy/new_6_modules/lfsr_4bit_tb.v" Line 38

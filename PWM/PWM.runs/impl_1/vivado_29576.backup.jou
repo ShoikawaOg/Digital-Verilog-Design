@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2026.1 (64-bit)
+# SW Build 6511674 on Tue Jun 16 11:02:23 MDT 2026
+# IP Build 6504888 on Tue Jun 09 09:05:25 MDT 2026
+# SharedData Build 6501428 on Mon Jun 08 17:34:18 MDT 2026
+# Start of session at: Mon Aug 24 03:51:58 2026
+# Process ID         : 29576
+# Current directory  : C:/GITHUB/Digital-Verilog-Design/PWM/PWM.runs/impl_1
+# Command line       : vivado.exe -log pwm_top.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source pwm_top.tcl -notrace
+# Log file           : C:/GITHUB/Digital-Verilog-Design/PWM/PWM.runs/impl_1/pwm_top.vdi
+# Journal file       : C:/GITHUB/Digital-Verilog-Design/PWM/PWM.runs/impl_1\vivado.jou
+# Running On         : WOHH
+# Platform           : Windows 11
+# Operating System   : 26200
+# Processor Detail   : AMD Ryzen 7 7445HS w/ Radeon 740M Graphics     
+# CPU Frequency      : 3194 MHz
+# CPU Physical cores : 6
+# CPU Logical cores  : 12
+# Host memory        : 16438 MB
+# Swap memory        : 12884 MB
+# Total Virtual      : 29323 MB
+# Available Virtual  : 7554 MB
+#-----------------------------------------------------------
+source pwm_top.tcl -notrace

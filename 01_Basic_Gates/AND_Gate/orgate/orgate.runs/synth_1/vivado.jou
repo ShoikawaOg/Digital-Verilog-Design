@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2026.1 (64-bit)
+# SW Build 6511674 on Tue Jun 16 11:02:23 MDT 2026
+# IP Build 6504888 on Tue Jun 09 09:05:25 MDT 2026
+# SharedData Build 6501428 on Mon Jun 08 17:34:18 MDT 2026
+# Start of session at: Sat Aug  1 05:47:54 2026
+# Process ID         : 29448
+# Current directory  : C:/GITHUB/Digital-Verilog-Design/01_Basic_Gates/AND_Gate/orgate/orgate.runs/synth_1
+# Command line       : vivado.exe -log or_gate.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source or_gate.tcl
+# Log file           : C:/GITHUB/Digital-Verilog-Design/01_Basic_Gates/AND_Gate/orgate/orgate.runs/synth_1/or_gate.vds
+# Journal file       : C:/GITHUB/Digital-Verilog-Design/01_Basic_Gates/AND_Gate/orgate/orgate.runs/synth_1\vivado.jou
+# Running On         : WOHH
+# Platform           : Windows 11
+# Operating System   : 26200
+# Processor Detail   : AMD Ryzen 7 7445HS w/ Radeon 740M Graphics     
+# CPU Frequency      : 3194 MHz
+# CPU Physical cores : 6
+# CPU Logical cores  : 12
+# Host memory        : 16438 MB
+# Swap memory        : 9126 MB
+# Total Virtual      : 25565 MB
+# Available Virtual  : 7608 MB
+#-----------------------------------------------------------
+source or_gate.tcl -notrace
